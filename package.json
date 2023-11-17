@@ -10,22 +10,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@hookform/resolvers": "3.3.1",
+    "@mui/material": "^5.14.18",
     "@prisma/client": "^5.6.0",
     "@reduxjs/toolkit": "^1.9.3",
     "@types/node": "18.15.3",
     "@types/react": "18.0.28",
     "@types/react-dom": "18.0.11",
+    "easymde": "^2.18.0",
     "eslint": "8.36.0",
     "eslint-config-next": "13.2.4",
     "next": "13.2.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-redux": "^8.0.5",
-    "typescript": "5.0.2",
-    "@hookform/resolvers": "3.3.1",
-    "easymde": "^2.18.0",
     "react-hook-form": "7.46.1",
-    "zod": "3.22.2",
-    "react-simplemde-editor": "^5.2.0"
+    "react-redux": "^8.0.5",
+    "react-simplemde-editor": "^5.2.0",
+    "typescript": "5.0.2",
+    "zod": "3.22.2"
   }
 }
